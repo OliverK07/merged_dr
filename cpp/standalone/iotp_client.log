@@ -1,0 +1,168 @@
+2017-12-22 15:29:37,000 [DEBUG] Watson_IOTP::IOTP_Client::IOTP_Client(const string&, std::__cxx11::string) Entry: 
+2017-12-22 15:29:37,000 [DEBUG] InitializePropertiesFromFile Entry: 
+2017-12-22 15:29:37,000 [ERROR] Failed to open input file: gateway.cfg
+2017-12-22 15:29:37,000 [DEBUG] InitializePropertiesFromFile Exit: 
+2017-12-22 15:29:37,000 [ERROR] Failed parsing configuration values from file: gateway.cfg
+2017-12-22 15:29:37,000 [DEBUG] Watson_IOTP::IOTP_Client::IOTP_Client(const string&, std::__cxx11::string) Exit: 
+2017-12-22 15:29:37,000 [DEBUG] bool Watson_IOTP::IOTP_GatewayClient::connect() Entry: 
+2017-12-22 15:29:37,000 [DEBUG] InitializeMqttClient Entry: 
+2017-12-22 15:29:37,000 [ERROR] InitializeMqttClient: Organization-ID can not be empty / null
+2017-12-22 15:29:37,000 [DEBUG] InitializeMqttClient Exit: 
+2017-12-22 15:29:37,000 [ERROR] Initializing MQTT Client Failed...
+2017-12-22 15:29:37,000 [DEBUG] bool Watson_IOTP::IOTP_GatewayClient::connect() Exit: 
+2017-12-22 15:29:37,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 15:29:37,000 [DEBUG] publishTopic - iot-2/type//id//evt/temp/fmt/json
+2017-12-22 15:29:37,000 [DEBUG] payload - {"Data": {"Temp": "30" } }
+2017-12-22 15:29:37,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 15:29:37,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 15:29:37,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 15:30:01,000 [DEBUG] Watson_IOTP::IOTP_Client::IOTP_Client(const string&, std::__cxx11::string) Entry: 
+2017-12-22 15:30:01,000 [DEBUG] InitializePropertiesFromFile Entry: 
+2017-12-22 15:30:01,000 [DEBUG] InitializePropertiesFromFile Exit: 
+2017-12-22 15:30:01,000 [DEBUG] dumpProperties Entry: 
+2017-12-22 15:30:01,000 [DEBUG] Organization: tr0uch
+2017-12-22 15:30:01,000 [DEBUG] Domain: internetofthings.ibmcloud.com
+2017-12-22 15:30:01,000 [DEBUG] DeviceType: type_gateway
+2017-12-22 15:30:01,000 [DEBUG] Device Id: gateway_hans
+2017-12-22 15:30:01,000 [DEBUG] Auth Method: token
+2017-12-22 15:30:01,000 [DEBUG] Auth Token: adlink-ist
+2017-12-22 15:30:01,000 [DEBUG] Trust Store Path: IoTFoundation.pem
+2017-12-22 15:30:01,000 [DEBUG] Port: 8883
+2017-12-22 15:30:01,000 [DEBUG] Use Client Certs: false
+2017-12-22 15:30:01,000 [DEBUG] Client Cert Path: 
+2017-12-22 15:30:01,000 [DEBUG] Client Key Path: 
+2017-12-22 15:30:01,000 [DEBUG] Client Key Password: 
+2017-12-22 15:30:01,000 [DEBUG] dumpProperties Exit: 
+2017-12-22 15:30:01,000 [DEBUG] Watson_IOTP::IOTP_Client::IOTP_Client(const string&, std::__cxx11::string) Exit: 
+2017-12-22 15:30:01,000 [DEBUG] bool Watson_IOTP::IOTP_GatewayClient::connect() Entry: 
+2017-12-22 15:30:01,000 [DEBUG] InitializeMqttClient Entry: 
+2017-12-22 15:30:01,000 [DEBUG] serverURI: ssl://tr0uch.messaging.internetofthings.ibmcloud.com:8883
+2017-12-22 15:30:01,000 [DEBUG] clientId: g:tr0uch:type_gateway:gateway_hans
+2017-12-22 15:30:01,000 [DEBUG] Underlying async_client created...
+2017-12-22 15:30:01,000 [DEBUG] InitializeMqttClient Exit: 
+2017-12-22 15:30:01,000 [INFO] Gateway Client connecting to ssl://tr0uch.messaging.internetofthings.ibmcloud.com:8883 with client-id g:tr0uch:type_gateway:gateway_hans
+2017-12-22 15:30:01,000 [DEBUG] bool Watson_IOTP::IOTP_Client::connect() Entry: 
+2017-12-22 15:30:01,000 [DEBUG] connectOptions: username - use-token-auth
+2017-12-22 15:30:01,000 [DEBUG] connectOptions: password - adlink-ist
+2017-12-22 15:30:01,000 [DEBUG] sslOptions: trustStore - IoTFoundation.pem
+2017-12-22 15:30:01,000 [DEBUG] Setting the callback...
+2017-12-22 15:30:01,000 [DEBUG] Calling pasync_client->connect()...
+2017-12-22 15:30:02,000 [DEBUG] callback set...
+2017-12-22 15:30:02,000 [DEBUG] bool Watson_IOTP::IOTP_Client::connect() Exit: 
+2017-12-22 15:30:02,000 [DEBUG] subscribeGatewayCommands Entry: 
+2017-12-22 15:30:02,000 [DEBUG] Calling subscribeTopic() for iot-2/type/type_gateway/id/gateway_hans/cmd/+/fmt/+
+2017-12-22 15:30:02,000 [DEBUG] bool Watson_IOTP::IOTP_Client::subscribeTopic(const string&, int) Entry: 
+2017-12-22 15:30:02,000 [DEBUG] Calling pasync_client->subscribe()....
+2017-12-22 15:30:02,000 [DEBUG] Adding the subscription for the topic: iot-2/type/type_gateway/id/gateway_hans/cmd/+/fmt/+
+2017-12-22 15:30:02,000 [DEBUG] bool Watson_IOTP::IOTP_Client::subscribeTopic(const string&, int) Exit: 
+2017-12-22 15:30:02,000 [DEBUG] subscribeGatewayCommands Exit: 
+2017-12-22 15:30:02,000 [DEBUG] bool Watson_IOTP::IOTP_GatewayClient::connect() Exit: 
+2017-12-22 15:30:02,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 15:30:02,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 15:30:02,000 [DEBUG] payload - {"Data": {"Temp": "30" } }
+2017-12-22 15:30:02,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 15:30:02,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 15:30:02,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 15:30:02,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 15:30:02,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 15:30:02,000 [DEBUG] ~IOTP_Client Entry: 
+2017-12-22 15:30:11,000 [DEBUG] ~IOTP_Client Exit: 
+2017-12-22 16:00:56,000 [DEBUG] Watson_IOTP::IOTP_Client::IOTP_Client(const string&, std::__cxx11::string) Entry: 
+2017-12-22 16:00:56,000 [DEBUG] InitializePropertiesFromFile Entry: 
+2017-12-22 16:00:56,000 [DEBUG] InitializePropertiesFromFile Exit: 
+2017-12-22 16:00:56,000 [DEBUG] dumpProperties Entry: 
+2017-12-22 16:00:56,000 [DEBUG] Organization: tr0uch
+2017-12-22 16:00:56,000 [DEBUG] Domain: internetofthings.ibmcloud.com
+2017-12-22 16:00:56,000 [DEBUG] DeviceType: type_gateway
+2017-12-22 16:00:56,000 [DEBUG] Device Id: gateway_hans
+2017-12-22 16:00:56,000 [DEBUG] Auth Method: token
+2017-12-22 16:00:56,000 [DEBUG] Auth Token: adlink-ist
+2017-12-22 16:00:56,000 [DEBUG] Trust Store Path: IoTFoundation.pem
+2017-12-22 16:00:56,000 [DEBUG] Port: 8883
+2017-12-22 16:00:56,000 [DEBUG] Use Client Certs: false
+2017-12-22 16:00:56,000 [DEBUG] Client Cert Path: 
+2017-12-22 16:00:56,000 [DEBUG] Client Key Path: 
+2017-12-22 16:00:56,000 [DEBUG] Client Key Password: 
+2017-12-22 16:00:56,000 [DEBUG] dumpProperties Exit: 
+2017-12-22 16:00:56,000 [DEBUG] Watson_IOTP::IOTP_Client::IOTP_Client(const string&, std::__cxx11::string) Exit: 
+2017-12-22 16:00:56,000 [DEBUG] bool Watson_IOTP::IOTP_GatewayClient::connect() Entry: 
+2017-12-22 16:00:56,000 [DEBUG] InitializeMqttClient Entry: 
+2017-12-22 16:00:56,000 [DEBUG] serverURI: ssl://tr0uch.messaging.internetofthings.ibmcloud.com:8883
+2017-12-22 16:00:56,000 [DEBUG] clientId: g:tr0uch:type_gateway:gateway_hans
+2017-12-22 16:00:56,000 [DEBUG] Underlying async_client created...
+2017-12-22 16:00:56,000 [DEBUG] InitializeMqttClient Exit: 
+2017-12-22 16:00:56,000 [INFO] Gateway Client connecting to ssl://tr0uch.messaging.internetofthings.ibmcloud.com:8883 with client-id g:tr0uch:type_gateway:gateway_hans
+2017-12-22 16:00:56,000 [DEBUG] bool Watson_IOTP::IOTP_Client::connect() Entry: 
+2017-12-22 16:00:56,000 [DEBUG] connectOptions: username - use-token-auth
+2017-12-22 16:00:56,000 [DEBUG] connectOptions: password - adlink-ist
+2017-12-22 16:00:56,000 [DEBUG] sslOptions: trustStore - IoTFoundation.pem
+2017-12-22 16:00:56,000 [DEBUG] Setting the callback...
+2017-12-22 16:00:56,000 [DEBUG] Calling pasync_client->connect()...
+2017-12-22 16:00:57,000 [DEBUG] callback set...
+2017-12-22 16:00:57,000 [DEBUG] bool Watson_IOTP::IOTP_Client::connect() Exit: 
+2017-12-22 16:00:57,000 [DEBUG] subscribeGatewayCommands Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling subscribeTopic() for iot-2/type/type_gateway/id/gateway_hans/cmd/+/fmt/+
+2017-12-22 16:00:57,000 [DEBUG] bool Watson_IOTP::IOTP_Client::subscribeTopic(const string&, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->subscribe()....
+2017-12-22 16:00:57,000 [DEBUG] Adding the subscription for the topic: iot-2/type/type_gateway/id/gateway_hans/cmd/+/fmt/+
+2017-12-22 16:00:57,000 [DEBUG] bool Watson_IOTP::IOTP_Client::subscribeTopic(const string&, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] subscribeGatewayCommands Exit: 
+2017-12-22 16:00:57,000 [DEBUG] bool Watson_IOTP::IOTP_GatewayClient::connect() Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 16:00:57,000 [DEBUG] payload - {"Data": {"Dimmer 0": "40" } }
+2017-12-22 16:00:57,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 16:00:57,000 [DEBUG] payload - {"Data": {"Dimmer 1": "10" } }
+2017-12-22 16:00:57,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 16:00:57,000 [DEBUG] payload - {"Data": {"Dimmer 1": "20" } }
+2017-12-22 16:00:57,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 16:00:57,000 [DEBUG] payload - {"Data": {"Dimmer 1": "30" } }
+2017-12-22 16:00:57,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 16:00:57,000 [DEBUG] payload - {"Data": {"Dimmer 2": "10" } }
+2017-12-22 16:00:57,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 16:00:57,000 [DEBUG] payload - {"Data": {"Dimmer 2": "20" } }
+2017-12-22 16:00:57,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] publishTopic - iot-2/type/type_gateway/id/gateway_hans/evt/temp/fmt/json
+2017-12-22 16:00:57,000 [DEBUG] payload - {"Data": {"Dimmer 2": "30" } }
+2017-12-22 16:00:57,000 [DEBUG] Calling method publishTopic()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Entry: 
+2017-12-22 16:00:57,000 [DEBUG] Calling pasync_client->publish()...
+2017-12-22 16:00:57,000 [DEBUG] mqtt::idelivery_token_ptr Watson_IOTP::IOTP_Client::publishTopic(std::__cxx11::string, mqtt::message_ptr) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] void Watson_IOTP::IOTP_GatewayClient::publishGatewayEvent(char*, char*, const char*, int) Exit: 
+2017-12-22 16:00:57,000 [DEBUG] ~IOTP_Client Entry: 
+2017-12-22 16:01:07,000 [DEBUG] ~IOTP_Client Exit: 

@@ -1,0 +1,36 @@
+========================================================================================
+Context     : os_signalHandler
+Date        : Thu Dec 21 16:00:12 CST 2017
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <5614>
+Thread      : signalHandler 7f3da7982700
+Internals   : os_signalHandler.c/659/6.8.3/5c0cad1/c3bd0ae/-1
+----------------------------------------------------------------------------------------
+Report      : An exception occurred, the process will now disconnect from all DDS domains
+Internals   : u__userExceptionHandler/u_user.c/303/773/1513843212.430872689
+----------------------------------------------------------------------------------------
+Report      : Exception (signal 11; 0x20; 0x404ffa) occurred in process
+Internals   : signalHandlerThread/os_signalHandler.c/582/0/1513843212.430875482
+========================================================================================
+Context     : os_signalHandler
+Date        : Thu Dec 21 16:02:55 CST 2017
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <6380>
+Thread      : signalHandler 7f89e06b5700
+Internals   : os_signalHandler.c/659/6.8.3/5c0cad1/c3bd0ae/-1
+========================================================================================
+Context     : DDS::DomainParticipantFactory::create_participant
+Date        : Thu Dec 21 16:20:35 CST 2017
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <6457>
+Thread      : main thread 7fd47429b740
+Internals   : DomainParticipantFactory.cpp/324/6.8.3/5c0cad1/c3bd0ae/-1
+----------------------------------------------------------------------------------------
+Report      : Unable to connect to domain id = <ANY>.
+              The most common causes of this error are an incorrect configuration file or
+              that OpenSpliceDDS is not running (when using shared memory mode).
+Internals   : u_participantNew/u_participant.c/234/773/1513844435.880366617
+----------------------------------------------------------------------------------------
+Report      : Cannot connect to domainId (0) and domainName (ospl_shmem_no_network).
+              Please make sure to start OpenSplice before creating a DomainParticipant.
+Internals   : user::u_domain::u_domainOpen/u_domain.c/1509/773/1513844435.880381946

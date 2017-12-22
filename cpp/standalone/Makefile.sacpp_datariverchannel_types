@@ -1,0 +1,106 @@
+# -*-Makefile-*-
+#----------------------------------------------------------------------------
+#       Macros
+#----------------------------------------------------------------------------
+
+CC            = gcc
+CXX           = g++
+LD            = $(CXX) $(CCFLAGS) $(PICFLAGS) $(GENFLAGS)
+AR            = ar
+PICFLAGS      = -fPIC
+CCFLAGS        =  
+CPPFLAGS      = $(PICFLAGS) $(GENFLAGS) -D_REENTRANT -D_POSIX_C_SOURCE=200112L -D_XOPEN_SOURCE=500 -Wall -Wno-unused-function -I"../../../../../include" -I"../../../../../include/sys" -I"../../../../../include/dcps/C++/SACPP" -I"." -I"../../../../../examples/include" -I"../../../../../examples"
+OBJEXT        = .o
+OUTPUT_OPTION = -o "$@"
+COMPILE.c     = $(CC) $(CFLAGS) $(CPPFLAGS) -c
+COMPILE.cc    = $(CXX) $(CCFLAGS) $(CPPFLAGS) -c
+LDFLAGS       = -L"." -L"../../../../../lib" -Wl,-rpath,\$$ORIGIN -Wl,-rpath,\$$ORIGIN/../../../../../lib
+CCC           = $(CXX)
+MAKEFILE      = Makefile.sacpp_datariverchannel_types
+DEPENDENCIES  = $(MAKEFILE)
+LTARGETDIR    = ./
+CAT           = cat
+MV            = mv -f
+RM            = rm -rf
+CP            = cp -p
+NUL           = /dev/null
+MKDIR         = mkdir -p
+TESTDIRSTART  = test -d
+TESTDIREND    = ||
+TOUCH         = touch
+EXEEXT        = 
+LIBPREFIX     = lib
+LIBSUFFIX     = 
+GENFLAGS      = -O3 -DNDEBUG
+LDLIBS        = -l"dcpssacpp" -l"ddskernel" -ldl $(subst lib,-l,$(sort $(basename $(notdir $(wildcard /usr/lib/librt.so /lib/librt.so))))) -lpthread
+OBJS          = .obj$(CFG)/IoTDataSplDcps$(OBJEXT) .obj$(CFG)/IoTData$(OBJEXT) .obj$(CFG)/IoTDataDcps$(OBJEXT) .obj$(CFG)/IoTDataDcps_impl$(OBJEXT)
+AREXT         = .a
+LIB           = $(LTARGETDIR)$(LIBPREFIX)sacpp_datariverchannel_types$(LIBSUFFIX)$(AREXT)
+SOEXT         = .so
+SHTARGETDIR   = ./
+SHLIB         = $(SHTARGETDIR)$(LIBPREFIX)sacpp_datariverchannel_types$(LIBSUFFIX)$(SOEXT)
+SHFLAGS       = -shared
+SRC           = IoTDataSplDcps.cpp IoTData.cpp IoTDataDcps.cpp IoTDataDcps_impl.cpp
+LINK.cc       = $(LD) $(LDFLAGS)
+DYNAMICFLAGS  = -DOSPL_BUILDEXAMPLE_LIB
+EXPORTFLAGS   = $(DYNAMICFLAGS)
+
+#----------------------------------------------------------------------------
+#       Local targets
+#----------------------------------------------------------------------------
+
+all: $(SHLIB)
+
+$(SHLIB): $(OBJS)
+	@$(TESTDIRSTART) "$(SHTARGETDIR)" $(TESTDIREND) $(MKDIR) "$(SHTARGETDIR)"
+	$(LINK.cc) $(SHFLAGS) $(OBJS) $(LDLIBS) $(OUTPUT_OPTION)
+
+$(LIB): $(OBJS)
+	@$(TESTDIRSTART) "$(LTARGETDIR)" $(TESTDIREND) $(MKDIR) "$(LTARGETDIR)"
+	$(AR) $(ARFLAGS) $(LIB) $(OBJS) 
+
+GENERATED_DIRTY = IoTDataSplDcps.cpp IoTData.cpp IoTDataDcps.cpp IoTDataDcps_impl.cpp IoTDataDcps.h IoTData.h ccpp_IoTData.h IoTDataSplDcps.h IoTDataDcps_impl.h
+
+export DYLD_LIBRARY_PATH := $(DYLD_LIBRARY_PATH):../../../../../bin:../../../../../lib
+export LD_LIBRARY_PATH   := $(LD_LIBRARY_PATH):../../../../../bin:../../../../../lib
+export SHLIB_PATH        := $(SHLIB_PATH):../../../../../bin:../../../../../lib
+export LIBPATH           := $(LIBPATH):../../../../../bin:../../../../../lib
+export PATH              := $(PATH):../../../../../bin:../../../../../lib
+
+.NOTPARALLEL:
+IoTDataSplDcps.cpp IoTData.cpp IoTDataDcps.cpp IoTDataDcps_impl.cpp IoTDataDcps.h IoTData.h ccpp_IoTData.h IoTDataSplDcps.h IoTDataDcps_impl.h: ../../idl/IoTData.idl
+	"../../../../../bin/idlpp" -I "../../../../../etc/idl" -l cpp ../../idl/IoTData.idl
+
+.PRECIOUS: $(GENERATED_DIRTY)
+$(OBJS): $(GENERATED_DIRTY)
+
+generated: $(GENERATED_DIRTY)
+	@-:
+
+.obj$(CFG)/IoTDataSplDcps$(OBJEXT): IoTDataSplDcps.cpp
+	@$(TESTDIRSTART) ".obj$(CFG)/" $(TESTDIREND) $(MKDIR) ".obj$(CFG)/"
+	$(COMPILE.cc) $(EXPORTFLAGS) $(OUTPUT_OPTION) IoTDataSplDcps.cpp
+
+.obj$(CFG)/IoTData$(OBJEXT): IoTData.cpp
+	@$(TESTDIRSTART) ".obj$(CFG)/" $(TESTDIREND) $(MKDIR) ".obj$(CFG)/"
+	$(COMPILE.cc) $(EXPORTFLAGS) $(OUTPUT_OPTION) IoTData.cpp
+
+.obj$(CFG)/IoTDataDcps$(OBJEXT): IoTDataDcps.cpp
+	@$(TESTDIRSTART) ".obj$(CFG)/" $(TESTDIREND) $(MKDIR) ".obj$(CFG)/"
+	$(COMPILE.cc) $(EXPORTFLAGS) $(OUTPUT_OPTION) IoTDataDcps.cpp
+
+.obj$(CFG)/IoTDataDcps_impl$(OBJEXT): IoTDataDcps_impl.cpp
+	@$(TESTDIRSTART) ".obj$(CFG)/" $(TESTDIREND) $(MKDIR) ".obj$(CFG)/"
+	$(COMPILE.cc) $(EXPORTFLAGS) $(OUTPUT_OPTION) IoTDataDcps_impl.cpp
+
+clean:
+	-$(RM) $(OBJS)
+
+realclean: clean
+	-$(RM) $(SHLIB) $(LIB)
+	-$(RM) $(GENERATED_DIRTY)
+	-$(RM) .obj$(CFG)/
+
+check-syntax:
+	$(COMPILE.cc) $(EXPORTFLAGS) $(CHK_SOURCES)
+

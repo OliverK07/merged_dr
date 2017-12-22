@@ -1,0 +1,642 @@
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : spliced <6459>
+Thread      : main thread 7f65b42ff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513844440.604522735/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:40 CST 2017
+Description : Started service durability with args "durability" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <6459>
+Thread      : main thread 7f65b42ff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513844440.604876352/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:40 CST 2017
+Description : Started service cmsoap with args "cmsoap" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <6459>
+Thread      : main thread 7f65b42ff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513844440.605315036/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:40 CST 2017
+Description : SOAP service is reachable via port 50000
+Node        : pt-VirtualBox
+Process     : cmsoap <6475>
+Thread      : main thread 7f9bf815d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513844440.614718981/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:40 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : cmsoap <6475>
+Thread      : main thread 7f9bf815d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513844440.614948711/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:40 CST 2017
+Description : The durability service can be identified by ID: 1989879672
+Node        : pt-VirtualBox
+Process     : durability <6474>
+Thread      : main thread 7fdd61a82740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513844440.635001121/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:47 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : durability <6474>
+Thread      : conflictResolver 7fdd619d6700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513844447.953993273/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:30:34 CST 2017
+Description : Termination request (signal 15) received from PID 13321, UID 1000
+Node        : pt-VirtualBox
+Process     : spliced <6459>
+Thread      : signalHandler 7f65b25cd700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513848634.438635266/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:30:35 CST 2017
+Description : not accepting requests.
+Node        : pt-VirtualBox
+Process     : cmsoap <6475>
+Thread      : main thread 7f9bf815d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513848635.214657936/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:30:35 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : cmsoap <6475>
+Thread      : main thread 7f9bf815d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513848635.214748847/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:30:36 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : durability <6474>
+Thread      : main thread 7fdd61a82740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513848636.066359296/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:30:36 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : spliced <6459>
+Thread      : main thread 7f65b42ff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513848636.167453569/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:30:36 CST 2017
+Description : Removed 8607 objects
+Node        : pt-VirtualBox
+Process     : spliced <6459>
+Thread      : main thread 7f65b42ff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513848636.169434474/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:01 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : spliced <16153>
+Thread      : main thread 7fb245594700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513848781.553878402/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:01 CST 2017
+Description : Started service durability with args "durability" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <16153>
+Thread      : main thread 7fb245594700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513848781.554249895/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:01 CST 2017
+Description : Started service cmsoap with args "cmsoap" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <16153>
+Thread      : main thread 7fb245594700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513848781.554416078/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:01 CST 2017
+Description : SOAP service is reachable via port 50000
+Node        : pt-VirtualBox
+Process     : cmsoap <16169>
+Thread      : main thread 7fcb04b85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513848781.556625972/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:01 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : cmsoap <16169>
+Thread      : main thread 7fcb04b85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513848781.556821430/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:01 CST 2017
+Description : The durability service can be identified by ID: 1374527017
+Node        : pt-VirtualBox
+Process     : durability <16168>
+Thread      : main thread 7f2fd61a6740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513848781.584801017/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:08 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : durability <16168>
+Thread      : conflictResolver 7f2fd60fa700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513848788.908774549/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:35 CST 2017
+Description : Termination request (signal 15) received from PID 16217, UID 1000
+Node        : pt-VirtualBox
+Process     : spliced <16153>
+Thread      : signalHandler 7fb243862700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513848815.130892143/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:35 CST 2017
+Description : not accepting requests.
+Node        : pt-VirtualBox
+Process     : cmsoap <16169>
+Thread      : main thread 7fcb04b85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513848815.581196356/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:35 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : cmsoap <16169>
+Thread      : main thread 7fcb04b85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513848815.581299330/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:36 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : durability <16168>
+Thread      : main thread 7f2fd61a6740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513848816.787188657/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:36 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : spliced <16153>
+Thread      : main thread 7fb245594700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513848816.852770549/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:36 CST 2017
+Description : Removed 8605 objects
+Node        : pt-VirtualBox
+Process     : spliced <16153>
+Thread      : main thread 7fb245594700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513848816.854158060/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:36 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : spliced <16728>
+Thread      : main thread 7f1555ce3700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849296.069529444/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:36 CST 2017
+Description : Started service durability with args "durability" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <16728>
+Thread      : main thread 7f1555ce3700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513849296.069795311/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:36 CST 2017
+Description : Started service cmsoap with args "cmsoap" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <16728>
+Thread      : main thread 7f1555ce3700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513849296.069971339/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:36 CST 2017
+Description : SOAP service is reachable via port 50000
+Node        : pt-VirtualBox
+Process     : cmsoap <16744>
+Thread      : main thread 7ff594e2f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513849296.088469301/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:36 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : cmsoap <16744>
+Thread      : main thread 7ff594e2f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849296.088625115/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:36 CST 2017
+Description : The durability service can be identified by ID: 55214176
+Node        : pt-VirtualBox
+Process     : durability <16743>
+Thread      : main thread 7f2adc344740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513849296.093909591/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : durability <16743>
+Thread      : conflictResolver 7f2adc298700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849303.216279418/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:53 CST 2017
+Description : Termination request (signal 15) received from PID 17235, UID 1000
+Node        : pt-VirtualBox
+Process     : spliced <16728>
+Thread      : signalHandler 7f1553fb1700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513849553.864030666/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:54 CST 2017
+Description : not accepting requests.
+Node        : pt-VirtualBox
+Process     : cmsoap <16744>
+Thread      : main thread 7ff594e2f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513849554.290237656/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:54 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : cmsoap <16744>
+Thread      : main thread 7ff594e2f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849554.290334055/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:55 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : durability <16743>
+Thread      : main thread 7f2adc344740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849555.318724447/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:55 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : spliced <16728>
+Thread      : main thread 7f1555ce3700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849555.380181781/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:55 CST 2017
+Description : Removed 8605 objects
+Node        : pt-VirtualBox
+Process     : spliced <16728>
+Thread      : main thread 7f1555ce3700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513849555.381747135/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:56 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : spliced <17239>
+Thread      : main thread 7ff30fe7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849556.637085427/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:56 CST 2017
+Description : Started service durability with args "durability" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <17239>
+Thread      : main thread 7ff30fe7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513849556.637488925/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:56 CST 2017
+Description : Started service cmsoap with args "cmsoap" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <17239>
+Thread      : main thread 7ff30fe7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513849556.637711941/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:56 CST 2017
+Description : The durability service can be identified by ID: 473176370
+Node        : pt-VirtualBox
+Process     : durability <17254>
+Thread      : main thread 7f0a25ecc740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513849556.652064349/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:56 CST 2017
+Description : SOAP service is reachable via port 50000
+Node        : pt-VirtualBox
+Process     : cmsoap <17255>
+Thread      : main thread 7efdc10ed700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513849556.652085916/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:45:56 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : cmsoap <17255>
+Thread      : main thread 7efdc10ed700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849556.652327614/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:03 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : durability <17254>
+Thread      : conflictResolver 7f0a25e20700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849563.968121139/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:07 CST 2017
+Description : Termination request (signal 15) received from PID 17301, UID 1000
+Node        : pt-VirtualBox
+Process     : spliced <17239>
+Thread      : signalHandler 7ff30e149700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513849567.949808302/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:08 CST 2017
+Description : not accepting requests.
+Node        : pt-VirtualBox
+Process     : cmsoap <17255>
+Thread      : main thread 7efdc10ed700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513849568.663506207/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:08 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : cmsoap <17255>
+Thread      : main thread 7efdc10ed700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849568.663608081/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:09 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : durability <17254>
+Thread      : main thread 7f0a25ecc740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849569.906769487/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:09 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : spliced <17239>
+Thread      : main thread 7ff30fe7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849569.982916398/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:09 CST 2017
+Description : Removed 8605 objects
+Node        : pt-VirtualBox
+Process     : spliced <17239>
+Thread      : main thread 7ff30fe7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513849569.984384168/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : spliced <20103>
+Thread      : main thread 7fe4b443a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849664.030046900/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:44 CST 2017
+Description : Started service durability with args "durability" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <20103>
+Thread      : main thread 7fe4b443a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513849664.030462089/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:44 CST 2017
+Description : Started service cmsoap with args "cmsoap" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <20103>
+Thread      : main thread 7fe4b443a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513849664.030694424/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:44 CST 2017
+Description : SOAP service is reachable via port 50000
+Node        : pt-VirtualBox
+Process     : cmsoap <20119>
+Thread      : main thread 7f264dd85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513849664.032590234/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:44 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : cmsoap <20119>
+Thread      : main thread 7f264dd85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849664.032810734/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:44 CST 2017
+Description : The durability service can be identified by ID: 1486904965
+Node        : pt-VirtualBox
+Process     : durability <20118>
+Thread      : main thread 7fbf07a99740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513849664.061455681/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:51 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : durability <20118>
+Thread      : conflictResolver 7fbf079ed700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513849671.187697626/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:07 CST 2017
+Description : Termination request (signal 15) received from PID 20189, UID 1000
+Node        : pt-VirtualBox
+Process     : spliced <20103>
+Thread      : signalHandler 7fe4b2708700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/signalHandlerThread/os_signalHandler.c/631/0/1513849687.121242929/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:08 CST 2017
+Description : not accepting requests.
+Node        : pt-VirtualBox
+Process     : cmsoap <20119>
+Thread      : main thread 7f264dd85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513849688.051406570/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:08 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : cmsoap <20119>
+Thread      : main thread 7f264dd85700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849688.052113790/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:09 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : durability <20118>
+Thread      : main thread 7fbf07a99740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849689.257701274/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:09 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : pt-VirtualBox
+Process     : spliced <20103>
+Thread      : main thread 7fe4b443a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513849689.345325270/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:09 CST 2017
+Description : Removed 8605 objects
+Node        : pt-VirtualBox
+Process     : spliced <20103>
+Thread      : main thread 7fe4b443a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513849689.346734265/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:27 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : spliced <22798>
+Thread      : main thread 7ff822d9c700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850907.387985415/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:27 CST 2017
+Description : Started service durability with args "durability" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <22798>
+Thread      : main thread 7ff822d9c700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513850907.388202383/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:27 CST 2017
+Description : Started service cmsoap with args "cmsoap" "file:///home/pt/ADLINK/Vortex_v2/Device/VortexOpenSplice/6.8.3/HDE/x86_64.linux/etc/config/ospl_shmem_no_network.xml"
+Node        : pt-VirtualBox
+Process     : spliced <22798>
+Thread      : main thread 7ff822d9c700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/OpenSplice domain service/spliced.c/812/0/1513850907.388360255/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:27 CST 2017
+Description : SOAP service is reachable via port 50000
+Node        : pt-VirtualBox
+Process     : cmsoap <22821>
+Thread      : main thread 7f1fb78a4700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513850907.398227793/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:27 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : cmsoap <22821>
+Thread      : main thread 7f1fb78a4700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850907.398613313/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:27 CST 2017
+Description : The durability service can be identified by ID: 180390150
+Node        : pt-VirtualBox
+Process     : durability <22820>
+Thread      : main thread 7f1a81661740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513850907.412343211/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:34 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : pt-VirtualBox
+Process     : durability <22820>
+Thread      : conflictResolver 7f1a815b5700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513850914.729649948/0

@@ -1,0 +1,1884 @@
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:07:22 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12451> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12451>
+Thread      : main thread 7fa0efb00740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764442.290446174/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:07:29 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12459> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12459>
+Thread      : main thread 7f1356973740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764449.189625733/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:07:30 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12451> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12451>
+Thread      : main thread 7fa0efb00740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764450.195119087/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:07:31 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12459> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12459>
+Thread      : main thread 7f1356973740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764451.194425685/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:11:56 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12862> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12862>
+Thread      : main thread 7ff62ee96740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764716.752751995/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:11:57 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12862> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12862>
+Thread      : main thread 7ff62ee96740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764717.757344736/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:00 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12869> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12869>
+Thread      : main thread 7f179c5e8740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764720.817991330/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:01 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12869> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12869>
+Thread      : main thread 7f179c5e8740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764721.820684739/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:03 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12876> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12876>
+Thread      : main thread 7f8a2ceb4740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764723.132357364/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:05 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12876> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12876>
+Thread      : main thread 7f8a2ceb4740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764725.151787310/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:05 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12882> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12882>
+Thread      : main thread 7fb9e3c8d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764725.251861543/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:06 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12882> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12882>
+Thread      : main thread 7fb9e3c8d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764726.255165606/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:10 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12890> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12890>
+Thread      : main thread 7fda71115740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764730.298966138/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:11 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12890> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12890>
+Thread      : main thread 7fda71115740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764731.302658270/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:19 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12897> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12897>
+Thread      : main thread 7f7b4569f740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764739.172223030/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:19 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12903> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12903>
+Thread      : main thread 7f65bace3740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764739.590892380/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:20 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12903> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12903>
+Thread      : main thread 7f65bace3740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764740.593488428/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:21 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12897> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12897>
+Thread      : main thread 7f7b4569f740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764741.177439318/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:24 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12910> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12910>
+Thread      : main thread 7f2d225ab740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764744.506939501/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:25 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12910> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12910>
+Thread      : main thread 7f2d225ab740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764745.517593153/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:25 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12917> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12917>
+Thread      : main thread 7efe053bb740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764745.806520965/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:12:27 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12917> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12917>
+Thread      : main thread 7efe053bb740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764747.809675458/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:13:29 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12934> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12934>
+Thread      : main thread 7f365b15d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764809.161585875/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:13:30 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12934> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12934>
+Thread      : main thread 7f365b15d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764810.165322595/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:13:30 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12942> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12942>
+Thread      : main thread 7f1a86824740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764810.281228756/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:13:32 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12948> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12948>
+Thread      : main thread 7fecae2cc740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513764812.264011302/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:13:32 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <12942> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <12942>
+Thread      : main thread 7f1a86824740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764812.288172444/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:13:33 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <12948> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <12948>
+Thread      : main thread 7fecae2cc740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513764813.267256454/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:33:14 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13022> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13022>
+Thread      : main thread 7fd9a8aab740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513765994.068287253/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:33:15 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13022> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13022>
+Thread      : main thread 7fd9a8aab740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513765995.078755311/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:33:15 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <13031> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <13031>
+Thread      : main thread 7fe554c07740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513765995.507658183/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:33:17 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <13031> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <13031>
+Thread      : main thread 7fe554c07740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513765997.510275318/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:33:57 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13448> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13448>
+Thread      : main thread 7f070fa01740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513766037.951376142/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:33:58 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13448> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13448>
+Thread      : main thread 7f070fa01740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513766038.955941608/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:01 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13455> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13455>
+Thread      : main thread 7f80f8993740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513766041.761096617/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:02 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <13464> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <13464>
+Thread      : main thread 7f7269cc6740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513766042.576718774/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:02 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13455> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13455>
+Thread      : main thread 7f80f8993740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513766042.764342200/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:04 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <13464> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <13464>
+Thread      : main thread 7f7269cc6740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513766044.579759649/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:06 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13470> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13470>
+Thread      : main thread 7fd0935fe740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513766046.563783850/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:07 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <13477> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <13477>
+Thread      : main thread 7f0ca687d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513766047.145927103/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:07 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <13470> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <13470>
+Thread      : main thread 7fd0935fe740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513766047.567410203/0
+========================================================================================
+Report      : INFO
+Date        : Wed Dec 20 18:34:09 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <13477> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <13477>
+Thread      : main thread 7f0ca687d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513766049.149444402/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:51:23 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <1605> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <1605>
+Thread      : main thread 7fb1bdc54740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842683.392358071/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:51:24 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <1612> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <1612>
+Thread      : main thread 7fa399e74740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842684.357592628/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:51:24 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <1605> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <1605>
+Thread      : signalHandler 7fb1bbd50700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842684.359949348/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:51:26 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <1612> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <1612>
+Thread      : main thread 7fa399e74740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842686.360093315/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:52:20 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <1625> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <1625>
+Thread      : main thread 7f075f26a740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842740.303400752/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:52:21 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <1625> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <1625>
+Thread      : main thread 7f075f26a740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842741.306116417/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:52:25 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <1633> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <1633>
+Thread      : main thread 7f0dc261c740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513842745.696246887/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 15:52:27 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <1633> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <1633>
+Thread      : main thread 7f0dc261c740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513842747.707825611/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:00:11 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <5614> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <5614>
+Thread      : main thread 7f3da9886740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513843211.865233680/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:00:12 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <5621> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <5621>
+Thread      : main thread 7efe1def3740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513843212.423932896/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:00:12 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <5614> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <5614>
+Thread      : signalHandler 7f3da7982700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513843212.430797193/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:00:14 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <5621> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <5621>
+Thread      : main thread 7efe1def3740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513843214.459186912/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:02:54 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <6380> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <6380>
+Thread      : main thread 7f89e25b9740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513843374.825895519/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:02:55 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <6387> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <6387>
+Thread      : main thread 7ff06c5fb740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513843375.265949769/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:02:55 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <6380> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <6380>
+Thread      : signalHandler 7f89e06b5700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513843375.268628730/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:02:57 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <6387> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <6387>
+Thread      : main thread 7ff06c5fb740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513843377.269074744/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:45 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <6510> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <6510>
+Thread      : main thread 7f7b9fcd7740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513844445.699524699/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:47 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <6517> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <6517>
+Thread      : main thread 7f5960ee1740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513844447.414821365/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:48 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <6510> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <6510>
+Thread      : main thread 7f7b9fcd7740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513844448.417909731/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:20:49 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <6517> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <6517>
+Thread      : main thread 7f5960ee1740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513844449.417969623/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:28 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <7237> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <7237>
+Thread      : main thread 7fd13679b740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513844668.865226846/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:29 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <7237> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <7237>
+Thread      : main thread 7fd13679b740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513844669.869302772/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:30 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <7244> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <7244>
+Thread      : main thread 7f5e4d91d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513844670.146222044/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:32 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <7244> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <7244>
+Thread      : main thread 7f5e4d91d740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513844672.149396716/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:32 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <7250> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <7250>
+Thread      : main thread 7f9675611740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513844672.209502878/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:33 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <7250> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <7250>
+Thread      : main thread 7f9675611740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513844673.218003596/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:37 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <7257> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <7257>
+Thread      : main thread 7f5be1984740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513844677.069266090/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:37 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <7264> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <7264>
+Thread      : main thread 7fbb0e57f740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513844677.721267896/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:38 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <7257> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <7257>
+Thread      : main thread 7f5be1984740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513844678.724937758/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 16:24:39 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <7264> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <7264>
+Thread      : main thread 7fbb0e57f740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513844679.725081988/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:13 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <16203> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <16203>
+Thread      : main thread 7f7db3b4a740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513848793.048378676/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:14 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <16210> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <16210>
+Thread      : main thread 7f174e904740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513848794.662091410/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:15 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <16203> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <16203>
+Thread      : main thread 7f7db3b4a740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513848795.665564941/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:33:16 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <16210> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <16210>
+Thread      : main thread 7f174e904740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513848796.664643056/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:38 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <16776> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <16776>
+Thread      : main thread 7fde08838740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513849298.773848132/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:40 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <16784> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <16784>
+Thread      : main thread 7f3604df1740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513849300.499161776/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:41 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <16776> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <16776>
+Thread      : main thread 7fde08838740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513849301.505223681/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:41:42 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <16784> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <16784>
+Thread      : main thread 7f3604df1740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513849302.505228966/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:01 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <17288> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <17288>
+Thread      : main thread 7f4958fef740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513849561.384687757/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:03 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <17295> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <17295>
+Thread      : main thread 7f66433d3740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513849563.085480766/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:04 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <17288> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <17288>
+Thread      : main thread 7f4958fef740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513849564.088233406/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:46:05 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <17295> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <17295>
+Thread      : main thread 7f66433d3740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513849565.087828399/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:47:49 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <20163> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <20163>
+Thread      : main thread 7f6302ff9740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513849669.217128566/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:03 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <20183> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <20183>
+Thread      : main thread 7f659f95b740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513849683.383361511/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:04 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <20163> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <20163>
+Thread      : main thread 7f6302ff9740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513849684.388225231/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 17:48:05 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <20183> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <20183>
+Thread      : main thread 7f659f95b740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513849685.387107620/0
+========================================================================================
+Report      : INFO
+Date        : Thu Dec 21 18:08:32 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <23332> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <23332>
+Thread      : main thread 7f339fd83740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513850912.323582627/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 09:49:05 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <23332> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <23332>
+Thread      : main thread 7f339fd83740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513907345.745213188/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 11:11:57 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <28020> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <28020>
+Thread      : main thread 7f0df9771740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513912317.447516260/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 11:11:59 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <28027> attached to shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <28027>
+Thread      : main thread 7f3cb8818740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainOpen/u_domain.c/1633/0/1513912319.292026655/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 11:12:00 CST 2017
+Description : Process 'sacpp_datariverchannel_sub' <28020> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_sub <28020>
+Thread      : main thread 7f0df9771740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513912320.296757673/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 11:12:01 CST 2017
+Description : Process 'sacpp_datariverchannel_pub' <28027> detached from shared memory
+Node        : pt-VirtualBox
+Process     : sacpp_datariverchannel_pub <28027>
+Thread      : main thread 7f3cb8818740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/u__domainDelete/u_domain.c/1892/0/1513912321.295195589/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : spliced 7faff6f77700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513922165.692081361/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:05 CST 2017
+Description : SOAP service is reachable via port 40377
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : cmsoap 7faff4216700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513922165.702863819/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : cmsoap 7faff4216700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513922165.702967596/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:05 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : ddsi2 7fafd73fd700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513922165.748397413/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:05 CST 2017
+Description : The durability service can be identified by ID: 113481158
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : durability 7fafd779e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513922165.966494924/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:08 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : ddsi2 7fafd73fd700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922168.876141338/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:09 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : cmsoap 7faff4216700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513922169.706043574/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:09 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : cmsoap 7faff4216700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922169.706154128/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:11 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : durability 7fafd779e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922171.173251166/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:11 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : spliced 7faff6f77700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922171.181376270/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:11 CST 2017
+Description : Removed 8916 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16694>
+Thread      : main thread 7faff6f57740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513922171.185235642/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:23 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : spliced 7f0ce53bb700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513922183.530960623/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:23 CST 2017
+Description : SOAP service is reachable via port 40675
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : cmsoap 7f0ce265a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513922183.537438678/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:23 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : cmsoap 7f0ce265a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513922183.537512343/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:23 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : ddsi2 7f0ce1957700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513922183.547871664/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:24 CST 2017
+Description : The durability service can be identified by ID: 1691604605
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : durability 7f0ce1cf8700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513922184.662176926/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:26 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : ddsi2 7f0ce1957700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922186.700250878/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:27 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : cmsoap 7f0ce265a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513922187.542083961/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:27 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : cmsoap 7f0ce265a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922187.542181244/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:28 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : durability 7f0ce1cf8700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922188.860082064/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:28 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : spliced 7f0ce53bb700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513922188.900132118/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 13:56:29 CST 2017
+Description : Removed 8989 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <16852>
+Thread      : main thread 7f0ce539b740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513922189.001047666/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : spliced 7f1369e4a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513923763.640446116/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:43 CST 2017
+Description : SOAP service is reachable via port 41163
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : cmsoap 7f13670e9700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513923763.642890613/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : cmsoap 7f13670e9700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513923763.642993647/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:43 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : ddsi2 7f13663e6700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513923763.672521992/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:44 CST 2017
+Description : The durability service can be identified by ID: 1685783856
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : durability 7f1366787700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513923764.771432274/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:46 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : ddsi2 7f13663e6700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513923766.817287894/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:47 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : cmsoap 7f13670e9700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513923767.646826266/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:47 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : cmsoap 7f13670e9700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513923767.646942084/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:48 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : durability 7f1366787700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513923768.979801461/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:49 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : spliced 7f1369e4a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513923769.013727964/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 14:22:49 CST 2017
+Description : Removed 8979 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <17419>
+Thread      : main thread 7f1369e2a740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513923769.018472317/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:28:59 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21342>
+Thread      : spliced 7f44a6b5f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927739.939876815/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:28:59 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21342>
+Thread      : ddsi2 7f44a246d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927739.999118906/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:00 CST 2017
+Description : SOAP service is reachable via port 38073
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21342>
+Thread      : cmsoap 7f44a3170700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513927740.004470666/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:00 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21342>
+Thread      : cmsoap 7f44a3170700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927740.005589868/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:00 CST 2017
+Description : The durability service can be identified by ID: 790569685
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21342>
+Thread      : durability 7f44a280e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513927740.225806193/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:02 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : spliced 7fd0ba2b5700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927742.708514694/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:02 CST 2017
+Description : SOAP service is reachable via port 44709
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : cmsoap 7fd0b7554700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513927742.710189347/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:02 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : cmsoap 7fd0b7554700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927742.710270826/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:02 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : ddsi2 7fd0b6851700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927742.740288579/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:03 CST 2017
+Description : The durability service can be identified by ID: 1763148721
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : durability 7fd0b6bf2700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513927743.837943642/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:05 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : ddsi2 7fd0b6851700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927745.860192983/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:06 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : cmsoap 7fd0b7554700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513927746.713254794/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:06 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : cmsoap 7fd0b7554700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927746.713343329/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:08 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : durability 7fd0b6bf2700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927748.032501518/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:08 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : spliced 7fd0ba2b5700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927748.056620557/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:08 CST 2017
+Description : Removed 8957 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21400>
+Thread      : main thread 7fd0ba295740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513927748.061682009/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:34 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21521>
+Thread      : spliced 7f74fd067700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927774.928535588/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:34 CST 2017
+Description : SOAP service is reachable via port 37783
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21521>
+Thread      : cmsoap 7f74f9678700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513927774.936291121/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:34 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21521>
+Thread      : cmsoap 7f74f9678700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927774.936353831/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:34 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21521>
+Thread      : ddsi2 7f74f8975700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927774.942594351/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:35 CST 2017
+Description : The durability service can be identified by ID: 1890781591
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21521>
+Thread      : durability 7f74f8d16700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513927775.850843547/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:36 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : spliced 7fdb06d8b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927776.191743673/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:36 CST 2017
+Description : SOAP service is reachable via port 34137
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : cmsoap 7fdae7fff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513927776.198691925/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:36 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : cmsoap 7fdae7fff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927776.198768479/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:36 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : ddsi2 7fdae72fc700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927776.211565227/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:36 CST 2017
+Description : The durability service can be identified by ID: 300476027
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : durability 7fdae769d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513927776.420958199/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:39 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : ddsi2 7fdae72fc700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927779.373002910/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:40 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : cmsoap 7fdae7fff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513927780.201141532/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:40 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : cmsoap 7fdae7fff700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927780.201234415/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:41 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : durability 7fdae769d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927781.617352657/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:41 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : spliced 7fdb06d8b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927781.672176370/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:41 CST 2017
+Description : Removed 8955 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21579>
+Thread      : main thread 7fdb06d6b740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513927781.679047946/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:58 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : spliced 7fdd4f707700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927798.715423057/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:58 CST 2017
+Description : SOAP service is reachable via port 39321
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : cmsoap 7fdd4c140700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513927798.725798291/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:58 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : cmsoap 7fdd4c140700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927798.725860513/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:58 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : ddsi2 7fdd2efd5700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927798.738518918/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:29:59 CST 2017
+Description : The durability service can be identified by ID: 575686054
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : durability 7fdd2f376700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513927799.843181804/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:00 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : spliced 7fe7ef8dc700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927800.024740398/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:00 CST 2017
+Description : SOAP service is reachable via port 33309
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : cmsoap 7fe7ecb7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513927800.032585282/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:00 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : cmsoap 7fe7ecb7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927800.033217983/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:00 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : ddsi2 7fe7ec118700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927800.046576062/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:00 CST 2017
+Description : The durability service can be identified by ID: 1907498654
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : durability 7fe7ec219700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513927800.560413104/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:03 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : ddsi2 7fe7ec118700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927803.190086184/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:04 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : cmsoap 7fe7ecb7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513927804.036806688/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:04 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : cmsoap 7fe7ecb7b700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927804.036939258/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:04 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : durability 7fe7ec219700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927804.752294669/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:04 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : spliced 7fe7ef8dc700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927804.784453963/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:04 CST 2017
+Description : Removed 8957 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <21741>
+Thread      : main thread 7fe7ef8bc740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513927804.793782557/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:06 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : conflictResolver 7fdd2ec2d700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513927806.959859672/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:11 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : ddsi2 7fdd2efd5700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927811.305143241/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:11 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : cmsoap 7fdd4c140700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513927811.736668657/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:11 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : cmsoap 7fdd4c140700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927811.736866101/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:13 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : durability 7fdd2f376700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927813.076678668/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:13 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : spliced 7fdd4f707700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513927813.099000308/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 15:30:13 CST 2017
+Description : Removed 8965 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <21683>
+Thread      : main thread 7fdd4f6e6740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513927813.200109439/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:38 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : spliced 7f52834bf700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929638.372266629/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:38 CST 2017
+Description : SOAP service is reachable via port 46695
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : cmsoap 7f528075e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513929638.381399036/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:38 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : cmsoap 7f528075e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929638.381455511/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:38 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : ddsi2 7f52639ed700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929638.401510754/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:39 CST 2017
+Description : The durability service can be identified by ID: 2017620615
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : durability 7f5263d8e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513929639.512830814/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:41 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : ddsi2 7f52639ed700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929641.540954274/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:42 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : cmsoap 7f528075e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513929642.384004555/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:42 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : cmsoap 7f528075e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929642.384081792/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:43 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : durability 7f5263d8e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929643.697733503/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:43 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : spliced 7f52834bf700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929643.740406051/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:43 CST 2017
+Description : Removed 8955 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22239>
+Thread      : main thread 7f528349f740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513929643.743188301/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:54 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : spliced 7fcfb3d89700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929654.174538576/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:54 CST 2017
+Description : SOAP service is reachable via port 43361
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : cmsoap 7fcfb039a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513929654.183536936/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:54 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : cmsoap 7fcfb039a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929654.183595071/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:54 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : ddsi2 7fcf9366e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929654.196614736/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:55 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : spliced 7f61f6f78700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929655.156852340/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:55 CST 2017
+Description : SOAP service is reachable via port 39913
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : cmsoap 7f61f4217700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513929655.168420992/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:55 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : cmsoap 7f61f4217700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929655.168482067/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:55 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : ddsi2 7f61d74fe700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929655.178256692/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:55 CST 2017
+Description : The durability service can be identified by ID: 1868201583
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : durability 7fcf93a0f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513929655.202649697/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:56 CST 2017
+Description : The durability service can be identified by ID: 1591964331
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : durability 7f61f4116700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513929656.285886574/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:58 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : ddsi2 7f61d74fe700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929658.341344475/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:59 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : cmsoap 7f61f4217700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513929659.172398534/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:59 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : cmsoap 7f61f4217700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929659.172497784/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:00 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : durability 7f61f4116700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929660.490409418/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:00 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : spliced 7f61f6f78700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929660.544162283/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:00 CST 2017
+Description : Removed 8955 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_pub <22398>
+Thread      : main thread 7f61f6f58740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513929660.545594298/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:02 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : conflictResolver 7fcf932b5700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929662.318563063/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:07 CST 2017
+Description : ================================================
+              == The service 'ddsi2' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : ddsi2 7fcf9366e700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929667.356629965/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:08 CST 2017
+Description : not accepting requests.
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : cmsoap 7fcfb039a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cmsoap.c/115/0/1513929668.193132882/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:08 CST 2017
+Description : ================================================
+              == The service 'cmsoap' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : cmsoap 7fcfb039a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929668.193202583/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:09 CST 2017
+Description : ================================================
+              == The service 'durability' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : durability 7fcf93a0f700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929669.325177091/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:09 CST 2017
+Description : ================================================
+              == The service 'splicedaemon' has now terminated. 
+              ================================================
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : spliced 7fcfb3d89700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/308/0/1513929669.345227422/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:01:09 CST 2017
+Description : Removed 8965 objects
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22362>
+Thread      : main thread 7fcfb3d68740
+Internals   : 6.8.3/5c0cad1/c3bd0ae/Database close/c_base.c/3263/0/1513929669.444363406/0

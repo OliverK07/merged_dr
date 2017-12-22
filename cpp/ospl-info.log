@@ -1,0 +1,46 @@
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22181>
+Thread      : spliced 7f813351a700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929635.738602843/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:35 CST 2017
+Description : SOAP service is reachable via port 37179
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22181>
+Thread      : cmsoap 7f81301d7700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/CM SOAP Service/cms_service.c/448/0/1513929635.746801646/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22181>
+Thread      : cmsoap 7f81301d7700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929635.746939429/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:35 CST 2017
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22181>
+Thread      : ddsi2 7f8112d51700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/v_serviceChangeState/v_service.c/301/0/1513929635.775581176/0
+========================================================================================
+Report      : INFO
+Date        : Fri Dec 22 16:00:36 CST 2017
+Description : The durability service can be identified by ID: 438687110
+Node        : oliverke-VirtualBox
+Process     : sacpp_datariverchannel_sub <22181>
+Thread      : durability 7f81130f2700
+Internals   : 6.8.3/5c0cad1/c3bd0ae/DurabilityService/d_durability.c/672/0/1513929636.875038139/0
